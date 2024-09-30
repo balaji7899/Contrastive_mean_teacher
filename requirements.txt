@@ -1,0 +1,5 @@
+torch==2.0.1  # Replace with the PyTorch version you're using
+torchvision==0.15.2  # Replace with the corresponding torchvision version
+numpy==1.21.0  # For numerical computations
+matplotlib==3.4.2  # For visualizations
+Pillow==8.2.0  # For image processing
