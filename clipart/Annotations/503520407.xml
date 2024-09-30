@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2016/06/15/15/38/turkey-1459157__340.png</src>
+	<filename>503520407.jpg</filename>
+	<size>
+		<width>345</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>29</ymin>
+			<xmax>323</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>

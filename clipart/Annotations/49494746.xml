@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://openclipart.org/download/70729/jp-oldbus.svg</src>
+	<filename>49494746.jpg</filename>
+	<size>
+		<width>1025</width>
+		<height>718</height>
+		<depth>1</depth>
+	</size>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>154</ymin>
+			<xmax>984</xmax>
+			<ymax>655</ymax>
+		</bndbox>
+	</object>
+</annotation>

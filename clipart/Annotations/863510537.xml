@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2016/03/31/17/44/arya-creative-design-1293872__340.png</src>
+	<filename>863510537.jpg</filename>
+	<size>
+		<width>452</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pottedplant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>14</ymin>
+			<xmax>306</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+</annotation>

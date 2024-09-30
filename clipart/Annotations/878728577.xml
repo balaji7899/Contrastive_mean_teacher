@@ -1,0 +1,33 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2016/03/02/13/48/glider-1232385__340.png</src>
+	<filename>878728577.jpg</filename>
+	<size>
+		<width>475</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>aeroplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>5</ymin>
+			<xmax>226</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>aeroplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>14</ymin>
+			<xmax>470</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>

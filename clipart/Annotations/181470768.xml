@@ -1,0 +1,33 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2015/09/13/10/58/vintage-937960__340.png</src>
+	<filename>181470768.jpg</filename>
+	<size>
+		<width>607</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>397</xmin>
+			<ymin>1</ymin>
+			<xmax>457</xmax>
+			<ymax>45</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>17</ymin>
+			<xmax>486</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>

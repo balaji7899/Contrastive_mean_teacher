@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2016/06/09/18/37/logo-1446296__340.png</src>
+	<filename>431430299.jpg</filename>
+	<size>
+		<width>391</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>cow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>186</ymin>
+			<xmax>339</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+</annotation>

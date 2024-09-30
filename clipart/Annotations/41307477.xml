@@ -1,0 +1,33 @@
+<annotation>
+	<cmplaces_id>000000003728</cmplaces_id>
+	<filename>41307477.jpg</filename>
+	<size>
+		<width>253</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>train</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>114</ymin>
+			<xmax>246</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>aeroplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>9</ymin>
+			<xmax>233</xmax>
+			<ymax>54</ymax>
+		</bndbox>
+	</object>
+</annotation>

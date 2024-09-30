@@ -1,0 +1,21 @@
+<annotation>
+	<cmplaces_id>000000011656</cmplaces_id>
+	<filename>583588632.jpg</filename>
+	<size>
+		<width>1080</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>456</xmin>
+			<ymin>606</ymin>
+			<xmax>570</xmax>
+			<ymax>773</ymax>
+		</bndbox>
+	</object>
+</annotation>

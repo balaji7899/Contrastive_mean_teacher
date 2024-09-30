@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2016/11/08/08/28/car-1807715__340.jpg</src>
+	<filename>561780320.jpg</filename>
+	<size>
+		<width>509</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>175</ymin>
+			<xmax>508</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>

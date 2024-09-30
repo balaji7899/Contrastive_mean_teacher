@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2014/03/25/15/26/school-bus-296824__340.png</src>
+	<filename>61604641.jpg</filename>
+	<size>
+		<width>472</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>107</ymin>
+			<xmax>411</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>

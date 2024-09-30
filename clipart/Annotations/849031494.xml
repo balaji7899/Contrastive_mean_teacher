@@ -1,0 +1,33 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2015/07/02/09/55/hall-828553_960_720.jpg</src>
+	<filename>849031494.jpg</filename>
+	<size>
+		<width>960</width>
+		<height>617</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pottedplant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>279</ymin>
+			<xmax>434</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pottedplant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>294</ymin>
+			<xmax>304</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+</annotation>

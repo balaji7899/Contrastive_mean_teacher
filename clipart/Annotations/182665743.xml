@@ -1,0 +1,21 @@
+<annotation>
+	<cmplaces_id>000000003334</cmplaces_id>
+	<filename>182665743.jpg</filename>
+	<size>
+		<width>450</width>
+		<height>329</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>train</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>21</ymin>
+			<xmax>303</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

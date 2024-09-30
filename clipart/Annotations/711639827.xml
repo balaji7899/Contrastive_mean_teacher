@@ -1,0 +1,21 @@
+<annotation>
+	<cmplaces_id>000000005858</cmplaces_id>
+	<filename>711639827.jpg</filename>
+	<size>
+		<width>307</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pottedplant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>3</ymin>
+			<xmax>252</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,33 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2015/02/24/17/04/interior-647610__340.jpg</src>
+	<filename>751595045.jpg</filename>
+	<size>
+		<width>425</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>sofa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>185</ymin>
+			<xmax>347</xmax>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>219</ymin>
+			<xmax>189</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>

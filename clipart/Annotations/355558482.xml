@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2014/04/03/11/51/computer-312332__340.png</src>
+	<filename>355558482.jpg</filename>
+	<size>
+		<width>463</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tvmonitor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>33</ymin>
+			<xmax>205</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

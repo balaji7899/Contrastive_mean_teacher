@@ -1,0 +1,33 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2016/03/31/20/41/friends-1295970__340.png</src>
+	<filename>307791003.jpg</filename>
+	<size>
+		<width>432</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>73</ymin>
+			<xmax>237</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>48</ymin>
+			<xmax>403</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

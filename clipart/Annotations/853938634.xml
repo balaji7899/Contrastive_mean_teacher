@@ -1,0 +1,33 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2013/07/12/13/48/table-147314__340.png</src>
+	<filename>853938634.jpg</filename>
+	<size>
+		<width>286</width>
+		<height>340</height>
+		<depth>1</depth>
+	</size>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>16</ymin>
+			<xmax>127</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>diningtable</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>133</ymin>
+			<xmax>286</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

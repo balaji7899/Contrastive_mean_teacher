@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://openclipart.org/download/180375/schoolbus.svg</src>
+	<filename>132858229.jpg</filename>
+	<size>
+		<width>297</width>
+		<height>211</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>46</ymin>
+			<xmax>279</xmax>
+			<ymax>175</ymax>
+		</bndbox>
+	</object>
+</annotation>

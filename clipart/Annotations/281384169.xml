@@ -1,0 +1,33 @@
+<annotation>
+	<cmplaces_id>000000006947</cmplaces_id>
+	<filename>281384169.jpg</filename>
+	<size>
+		<width>792</width>
+		<height>793</height>
+		<depth>1</depth>
+	</size>
+	<object>
+		<name>chair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>310</ymin>
+			<xmax>470</xmax>
+			<ymax>705</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>diningtable</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>276</ymin>
+			<xmax>712</xmax>
+			<ymax>731</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,33 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2012/04/12/19/19/motorcycle-30260__340.png</src>
+	<filename>933370524.jpg</filename>
+	<size>
+		<width>274</width>
+		<height>340</height>
+		<depth>1</depth>
+	</size>
+	<object>
+		<name>motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>151</ymin>
+			<xmax>274</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2</ymin>
+			<xmax>274</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+</annotation>

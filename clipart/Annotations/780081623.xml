@@ -1,0 +1,33 @@
+<annotation>
+	<cmplaces_id>000000009013</cmplaces_id>
+	<filename>780081623.jpg</filename>
+	<size>
+		<width>1024</width>
+		<height>1044</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>sheep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>462</ymin>
+			<xmax>575</xmax>
+			<ymax>920</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sheep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>544</xmin>
+			<ymin>342</ymin>
+			<xmax>935</xmax>
+			<ymax>811</ymax>
+		</bndbox>
+	</object>
+</annotation>

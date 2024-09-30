@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2014/08/18/14/39/digital-art-420801__340.jpg</src>
+	<filename>62132777.jpg</filename>
+	<size>
+		<width>604</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymin>248</ymin>
+			<xmax>536</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>

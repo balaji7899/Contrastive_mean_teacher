@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://openclipart.org/download/237469/smeed-modelling-challenge---vehicle--50-mins-.svg</src>
+	<filename>719785473.jpg</filename>
+	<size>
+		<width>1200</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>341</xmin>
+			<ymin>532</ymin>
+			<xmax>981</xmax>
+			<ymax>1032</ymax>
+		</bndbox>
+	</object>
+</annotation>

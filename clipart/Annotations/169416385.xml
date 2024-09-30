@@ -1,0 +1,33 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2012/04/26/18/12/coat-of-arms-42699__340.png</src>
+	<filename>169416385.jpg</filename>
+	<size>
+		<width>228</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>103</ymin>
+			<xmax>99</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>98</ymin>
+			<xmax>207</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

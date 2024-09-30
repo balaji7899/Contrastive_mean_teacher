@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2016/06/04/23/22/crimea-1436446__340.png</src>
+	<filename>238735901.jpg</filename>
+	<size>
+		<width>680</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>144</ymin>
+			<xmax>187</xmax>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+</annotation>

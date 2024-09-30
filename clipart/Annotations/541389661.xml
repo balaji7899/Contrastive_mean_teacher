@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2016/10/11/09/28/window-1730946__340.png</src>
+	<filename>541389661.jpg</filename>
+	<size>
+		<width>352</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pottedplant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>219</xmin>
+			<ymin>170</ymin>
+			<xmax>261</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+</annotation>

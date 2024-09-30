@@ -1,0 +1,33 @@
+<annotation>
+	<cmplaces_id>000000008662</cmplaces_id>
+	<filename>755244283.jpg</filename>
+	<size>
+		<width>490</width>
+		<height>322</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tvmonitor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>16</ymin>
+			<xmax>204</xmax>
+			<ymax>88</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>82</ymin>
+			<xmax>339</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>

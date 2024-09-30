@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://openclipart.org/download/169847/1336141214.svg</src>
+	<filename>939804523.jpg</filename>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>126</ymin>
+			<xmax>570</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

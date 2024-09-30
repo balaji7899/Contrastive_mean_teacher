@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2015/10/07/14/27/bike-976263__340.jpg</src>
+	<filename>428706709.jpg</filename>
+	<size>
+		<width>255</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>103</ymin>
+			<xmax>223</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2013/07/12/14/54/picnic-148990__340.png</src>
+	<filename>683716161.jpg</filename>
+	<size>
+		<width>567</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>1</ymin>
+			<xmax>155</xmax>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+</annotation>

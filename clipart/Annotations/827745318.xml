@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2013/07/13/14/08/deckchair-162188__340.png</src>
+	<filename>827745318.jpg</filename>
+	<size>
+		<width>385</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>3</ymin>
+			<xmax>384</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

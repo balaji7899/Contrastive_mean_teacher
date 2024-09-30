@@ -1,0 +1,33 @@
+<annotation>
+	<src>https://openclipart.org/download/221894/Girl-On-Bike.svg</src>
+	<filename>569113493.jpg</filename>
+	<size>
+		<width>1646</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>641</ymin>
+			<xmax>1509</xmax>
+			<ymax>1495</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>655</xmin>
+			<ymin>39</ymin>
+			<xmax>1165</xmax>
+			<ymax>1421</ymax>
+		</bndbox>
+	</object>
+</annotation>

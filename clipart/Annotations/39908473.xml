@@ -1,0 +1,21 @@
+<annotation>
+	<cmplaces_id>000000001214</cmplaces_id>
+	<filename>39908473.jpg</filename>
+	<size>
+		<width>135</width>
+		<height>135</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>aeroplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>43</ymin>
+			<xmax>126</xmax>
+			<ymax>95</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,33 @@
+<annotation>
+	<cmplaces_id>000000003354</cmplaces_id>
+	<filename>783686769.jpg</filename>
+	<size>
+		<width>1930</width>
+		<height>1005</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>train</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>292</ymin>
+			<xmax>1202</xmax>
+			<ymax>863</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1445</xmin>
+			<ymin>659</ymin>
+			<xmax>1584</xmax>
+			<ymax>790</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,33 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2013/07/12/15/36/cabriolet-150165__340.png</src>
+	<filename>728863400.jpg</filename>
+	<size>
+		<width>532</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>1</ymin>
+			<xmax>466</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>51</ymin>
+			<xmax>530</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>

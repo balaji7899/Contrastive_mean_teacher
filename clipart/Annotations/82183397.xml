@@ -1,0 +1,33 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2016/07/19/23/32/kite-1529254__340.jpg</src>
+	<filename>82183397.jpg</filename>
+	<size>
+		<width>339</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>124</ymin>
+			<xmax>225</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>97</ymin>
+			<xmax>321</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

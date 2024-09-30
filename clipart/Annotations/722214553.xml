@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2017/01/31/17/21/animal-2025708__340.png</src>
+	<filename>722214553.jpg</filename>
+	<size>
+		<width>356</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>sheep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>3</ymin>
+			<xmax>351</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

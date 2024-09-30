@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2012/05/02/19/14/duckling-46049__340.png</src>
+	<filename>452391415.jpg</filename>
+	<size>
+		<width>452</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>43</ymin>
+			<xmax>323</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

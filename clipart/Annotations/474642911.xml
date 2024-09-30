@@ -1,0 +1,33 @@
+<annotation>
+	<cmplaces_id>000000008208</cmplaces_id>
+	<filename>474642911.jpg</filename>
+	<size>
+		<width>300</width>
+		<height>295</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>42</ymin>
+			<xmax>99</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>aeroplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>2</ymin>
+			<xmax>159</xmax>
+			<ymax>42</ymax>
+		</bndbox>
+	</object>
+</annotation>

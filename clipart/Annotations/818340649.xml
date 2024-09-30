@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2012/05/07/12/59/horse-48389__340.png</src>
+	<filename>818340649.jpg</filename>
+	<size>
+		<width>365</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>7</ymin>
+			<xmax>365</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+</annotation>

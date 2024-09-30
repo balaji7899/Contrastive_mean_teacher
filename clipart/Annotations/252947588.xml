@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2016/11/13/11/15/futuristic-1820728__340.jpg</src>
+	<filename>252947588.jpg</filename>
+	<size>
+		<width>604</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>187</ymin>
+			<xmax>482</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>

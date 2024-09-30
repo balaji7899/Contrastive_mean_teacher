@@ -1,0 +1,33 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2015/11/15/07/44/learn-1044078__340.jpg</src>
+	<filename>972736690.jpg</filename>
+	<size>
+		<width>480</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>68</ymin>
+			<xmax>446</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tvmonitor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>17</ymin>
+			<xmax>280</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2016/03/31/20/04/cluttered-1295494_960_720.png</src>
+	<filename>877523400.jpg</filename>
+	<size>
+		<width>736</width>
+		<height>720</height>
+		<depth>1</depth>
+	</size>
+	<object>
+		<name>chair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>380</xmin>
+			<ymin>170</ymin>
+			<xmax>621</xmax>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+</annotation>

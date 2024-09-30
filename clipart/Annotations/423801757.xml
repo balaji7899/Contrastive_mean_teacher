@@ -1,0 +1,33 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2017/01/31/08/44/animals-2023323__340.png</src>
+	<filename>423801757.jpg</filename>
+	<size>
+		<width>213</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>155</ymin>
+			<xmax>96</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>52</ymin>
+			<xmax>212</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>

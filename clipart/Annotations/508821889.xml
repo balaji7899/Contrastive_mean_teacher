@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://openclipart.org/download/106351/buecker-motorbike.svg</src>
+	<filename>508821889.jpg</filename>
+	<size>
+		<width>997</width>
+		<height>699</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>177</ymin>
+			<xmax>903</xmax>
+			<ymax>674</ymax>
+		</bndbox>
+	</object>
+</annotation>

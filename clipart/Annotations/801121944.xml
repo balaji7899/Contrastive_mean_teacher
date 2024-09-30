@@ -1,0 +1,33 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2015/05/20/15/20/horse-775648__340.jpg</src>
+	<filename>801121944.jpg</filename>
+	<size>
+		<width>233</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>119</ymin>
+			<xmax>157</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>184</ymin>
+			<xmax>225</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

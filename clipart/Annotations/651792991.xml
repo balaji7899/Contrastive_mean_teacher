@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2016/03/31/19/16/harbour-1294861__340.png</src>
+	<filename>651792991.jpg</filename>
+	<size>
+		<width>516</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>128</ymin>
+			<xmax>442</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

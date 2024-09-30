@@ -1,0 +1,33 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2014/04/03/10/31/capitol-310742__340.png</src>
+	<filename>572442795.jpg</filename>
+	<size>
+		<width>401</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>261</ymin>
+			<xmax>127</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>234</ymin>
+			<xmax>101</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

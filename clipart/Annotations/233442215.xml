@@ -1,0 +1,21 @@
+<annotation>
+	<cmplaces_id>000000010984</cmplaces_id>
+	<filename>233442215.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>420</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>164</ymin>
+			<xmax>112</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>

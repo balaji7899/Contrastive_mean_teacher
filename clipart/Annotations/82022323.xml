@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2017/02/01/11/10/animal-2029697__340.png</src>
+	<filename>82022323.jpg</filename>
+	<size>
+		<width>495</width>
+		<height>340</height>
+		<depth>1</depth>
+	</size>
+	<object>
+		<name>cow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>485</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>

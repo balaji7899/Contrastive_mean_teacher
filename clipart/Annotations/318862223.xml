@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2012/05/07/18/36/fire-station-48937__340.png</src>
+	<filename>318862223.jpg</filename>
+	<size>
+		<width>401</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>262</ymin>
+			<xmax>114</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+</annotation>

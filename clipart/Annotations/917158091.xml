@@ -1,0 +1,33 @@
+<annotation>
+	<cmplaces_id>000000011247</cmplaces_id>
+	<filename>917158091.jpg</filename>
+	<size>
+		<width>220</width>
+		<height>211</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>77</ymin>
+			<xmax>187</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>27</ymin>
+			<xmax>97</xmax>
+			<ymax>64</ymax>
+		</bndbox>
+	</object>
+</annotation>

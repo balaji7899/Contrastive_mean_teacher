@@ -1,0 +1,33 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2016/07/02/08/41/london-1492573__340.jpg</src>
+	<filename>469655607.jpg</filename>
+	<size>
+		<width>267</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>192</ymin>
+			<xmax>203</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>58</ymin>
+			<xmax>255</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

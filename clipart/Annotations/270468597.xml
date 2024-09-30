@@ -1,0 +1,33 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2017/03/23/17/41/wing-chair-2168970__340.png</src>
+	<filename>270468597.jpg</filename>
+	<size>
+		<width>358</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>sofa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>17</ymin>
+			<xmax>236</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>3</ymin>
+			<xmax>357</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

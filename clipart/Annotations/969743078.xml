@@ -1,0 +1,33 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2012/05/04/12/24/birds-47285__340.png</src>
+	<filename>969743078.jpg</filename>
+	<size>
+		<width>480</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>50</ymin>
+			<xmax>196</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>113</ymin>
+			<xmax>468</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

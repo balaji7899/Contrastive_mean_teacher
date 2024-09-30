@@ -1,0 +1,33 @@
+<annotation>
+	<cmplaces_id>000000002692</cmplaces_id>
+	<filename>457072286.jpg</filename>
+	<size>
+		<width>450</width>
+		<height>330</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pottedplant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>390</xmin>
+			<ymin>74</ymin>
+			<xmax>441</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>134</ymin>
+			<xmax>281</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

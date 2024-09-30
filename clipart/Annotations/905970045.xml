@@ -1,0 +1,21 @@
+<annotation>
+	<cmplaces_id>000000004056</cmplaces_id>
+	<filename>905970045.jpg</filename>
+	<size>
+		<width>450</width>
+		<height>349</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tvmonitor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>65</ymin>
+			<xmax>157</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

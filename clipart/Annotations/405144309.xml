@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://openclipart.org/download/191941/REQUEST-Gloria-Italian-Bicycle.svg</src>
+	<filename>405144309.jpg</filename>
+	<size>
+		<width>2047</width>
+		<height>2047</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>370</xmin>
+			<ymin>496</ymin>
+			<xmax>1852</xmax>
+			<ymax>1468</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,33 @@
+<annotation>
+	<src>https://openclipart.org/image/2400px/svg_to_png/202566/onibus-clip-art.png</src>
+	<filename>954040015.jpg</filename>
+	<size>
+		<width>2400</width>
+		<height>944</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>230</ymin>
+			<xmax>1311</xmax>
+			<ymax>872</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>379</ymin>
+			<xmax>383</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>

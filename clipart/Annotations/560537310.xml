@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2016/04/01/09/41/chopper-1299511__340.png</src>
+	<filename>560537310.jpg</filename>
+	<size>
+		<width>665</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>658</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2014/03/25/16/25/police-car-297042__340.png</src>
+	<filename>638895507.jpg</filename>
+	<size>
+		<width>544</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>98</ymin>
+			<xmax>538</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

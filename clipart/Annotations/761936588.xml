@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2012/04/26/12/07/plane-42332__340.png</src>
+	<filename>761936588.jpg</filename>
+	<size>
+		<width>510</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>aeroplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>23</ymin>
+			<xmax>477</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

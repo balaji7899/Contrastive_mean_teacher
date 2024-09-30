@@ -1,0 +1,33 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2017/02/10/18/11/alice-in-wonderland-2055885__340.jpg</src>
+	<filename>802786056.jpg</filename>
+	<size>
+		<width>478</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>166</ymin>
+			<xmax>338</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>92</ymin>
+			<xmax>452</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,33 @@
+<annotation>
+	<src>https://openclipart.org/download/262233/crying-boy.svg</src>
+	<filename>877663528.jpg</filename>
+	<size>
+		<width>563</width>
+		<height>635</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>303</ymin>
+			<xmax>547</xmax>
+			<ymax>629</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>4</ymin>
+			<xmax>474</xmax>
+			<ymax>621</ymax>
+		</bndbox>
+	</object>
+</annotation>

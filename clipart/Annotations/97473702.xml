@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://openclipart.org/download/191021/05CoachmenCrossCountry.svg</src>
+	<filename>97473702.jpg</filename>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>165</ymin>
+			<xmax>737</xmax>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+</annotation>

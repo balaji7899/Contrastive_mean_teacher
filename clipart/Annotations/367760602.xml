@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2014/03/25/15/18/lamborghini-296461__340.png</src>
+	<filename>367760602.jpg</filename>
+	<size>
+		<width>544</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>132</ymin>
+			<xmax>543</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>

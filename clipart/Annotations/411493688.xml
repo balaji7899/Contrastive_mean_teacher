@@ -1,0 +1,33 @@
+<annotation>
+	<cmplaces_id>000000006314</cmplaces_id>
+	<filename>411493688.jpg</filename>
+	<size>
+		<width>450</width>
+		<height>336</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>diningtable</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>142</ymin>
+			<xmax>246</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>diningtable</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>170</ymin>
+			<xmax>449</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

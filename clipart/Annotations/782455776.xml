@@ -1,0 +1,33 @@
+<annotation>
+	<cmplaces_id>000000004055</cmplaces_id>
+	<filename>782455776.jpg</filename>
+	<size>
+		<width>450</width>
+		<height>449</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>233</ymin>
+			<xmax>106</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>137</ymin>
+			<xmax>286</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>

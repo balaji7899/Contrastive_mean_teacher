@@ -1,0 +1,33 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2015/12/06/18/03/homeopathy-1079808__340.jpg</src>
+	<filename>470666228.jpg</filename>
+	<size>
+		<width>328</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>262</xmin>
+			<ymin>118</ymin>
+			<xmax>314</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>144</ymin>
+			<xmax>149</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

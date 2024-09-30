@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2012/05/02/21/21/flowers-46377__340.png</src>
+	<filename>538490100.jpg</filename>
+	<size>
+		<width>559</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>cow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>7</ymin>
+			<xmax>542</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

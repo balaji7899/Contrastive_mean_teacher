@@ -1,0 +1,33 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2016/03/31/22/15/animal-1296941__340.png</src>
+	<filename>270780357.jpg</filename>
+	<size>
+		<width>483</width>
+		<height>340</height>
+		<depth>1</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>53</ymin>
+			<xmax>151</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>1</ymin>
+			<xmax>377</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

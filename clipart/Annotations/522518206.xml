@@ -1,0 +1,33 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2017/01/31/19/10/automobile-2026529__340.png</src>
+	<filename>522518206.jpg</filename>
+	<size>
+		<width>680</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>16</ymin>
+			<xmax>659</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>433</xmin>
+			<ymin>32</ymin>
+			<xmax>545</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>

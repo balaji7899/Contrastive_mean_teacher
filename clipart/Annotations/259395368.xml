@@ -1,0 +1,21 @@
+<annotation>
+	<src>https://cdn.pixabay.com/photo/2017/03/24/01/26/landscape-2169867__340.jpg</src>
+	<filename>259395368.jpg</filename>
+	<size>
+		<width>439</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>208</ymin>
+			<xmax>144</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

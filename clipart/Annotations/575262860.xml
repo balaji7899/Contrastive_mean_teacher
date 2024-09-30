@@ -1,0 +1,33 @@
+<annotation>
+	<src>https://openclipart.org/image/2400px/svg_to_png/179178/boy-and-cat-fishing.png</src>
+	<filename>575262860.jpg</filename>
+	<size>
+		<width>2400</width>
+		<height>2286</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>748</xmin>
+			<ymin>479</ymin>
+			<xmax>1611</xmax>
+			<ymax>1629</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>983</ymin>
+			<xmax>631</xmax>
+			<ymax>1826</ymax>
+		</bndbox>
+	</object>
+</annotation>
