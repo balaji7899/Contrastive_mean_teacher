@@ -69,8 +69,8 @@ class ClipartDataset(Dataset):
 # Function to load datasets
 def get_dataset(split='trainval', domain='source'):
     if domain == 'source':  # Pascal VOC (Source)
-        return PascalVOCDataset(root='D:\Mtech_pro\cross-domain-detection-master\datasets\dt_watercolor\VOC2012', split=split, transform=get_weak_augmentations())
+        return PascalVOCDataset(root='/content/Contrastive_mean_teacher/', split=split, transform=get_weak_augmentations())
     elif domain == 'target':  # Clipart1k (Target)
-        return ClipartDataset(root='D:\\Mtech_pro\\cross-domain-detection-master\\datasets\\clipart', transform=get_strong_augmentations())
+        return ClipartDataset(root='/content/Contrastive_mean_teacher/clipart', transform=get_strong_augmentations())
     else:
         raise ValueError("Unknown domain specified")

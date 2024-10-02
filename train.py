@@ -41,6 +41,9 @@ def train(model, train_dataloader, val_dataloader, optimizer, device, num_epochs
             # Forward pass
             student_cls_out, student_reg_out, teacher_cls_out, teacher_reg_out = model(images)
 
+            student_cls_out = student_cls_out.to(device)
+            teacher_cls_out = teacher_cls_out.to(device)
+
             # Calculate losses
             det_loss = detection_loss(student_cls_out, student_reg_out, targets)
             cont_loss = contrastive_loss(student_cls_out, teacher_cls_out)
